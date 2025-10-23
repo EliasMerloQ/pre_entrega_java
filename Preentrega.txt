@@ -1,0 +1,29 @@
+Pre entrega:
+Un CRUD de articulos(sugerencia) funcional con POO que funcione en consola con ingreso de datos por Scanner(Input)
+
+Atributos de articulo:
+    -id
+    -Nombre
+    -Precio
+    -Stock
+Que tenga un menu para el usuario:
+    - Crear
+    - Listar
+    - Modificar
+    - Eliminar
+
+POO:
+    -Clases y objetos
+    -Herencia (Clase abstracta - Abstraccion)
+    -Encapsulamiento(atributos private con getters y setters)
+    -Polimorfismo (sobrecarga de metodos)
+    -Implementar interfaces
+    -excepciones (try catch) *opcional*
+    -Colecciones (ArrayList) 
+
+Para el ingreso de datos se debe validar
+
+Extras no obligatorios:
+    -CRUD de Categorias y que la categoria forme parte del articulo
+    -CRUD de usuarios
+    -CRUD de pedidos
